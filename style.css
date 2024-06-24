@@ -325,6 +325,10 @@ textarea {
         width: 100%;
         margin-bottom: 20px;
     }
+    
+    .DEV {
+        font-size: 100%;
+    }
 
     .contact {
         width: 90%;
